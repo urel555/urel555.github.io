@@ -1,0 +1,17 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+
+.text{
+	width: 100%
+	position: relative;
+	margin-top: -50%;
+}
+
+.text h1{
+	text-align: center;
+	color: #ffffff;
+	font-size: 5vw;
+	font-family: 'Teko', sans-serif;
+}
