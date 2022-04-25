@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html >
+
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="description" content="">
+  <link rel="icon" href="bricklady.png" type="image/png">
+  <title>urel.xyz</title>
+  <link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css" type="text/css"> <!-- color corection -->
+  <link rel="stylesheet" href="assets/css/bg.css">  <!-- gwiazdki -->
+  <link rel="stylesheet" href="assets/style.css">
+  <link href="https://fonts.googleapis.com/css2?family=Teko:wght@300&display=swap" rel="stylesheet">
+
+
+  <style>
+	html, body {margin: 0; height: 100%; overflow: hidden}  <!-- brak marginesow-->
+	.fa {
+	  padding: 20px;
+	  font-size: 30px;
+	  width: 30px;
+	  text-align: center;
+	  text-decoration: none;
+	  border-radius: 50%;
+	}[
+  </style>
+  
+</head>
+
+
+
+<body>
+
+		
+		<!--1--><div class="video-container"> 
+		
+		
+						<!-- Background--> 
+			<video autoplay muted loop id="videoBG">
+				<source src="aaa.webm" type="video/webm" center fixed>
+			</video>	
+			
+						<!-- Background Stars-->
+			<div id="bg" class="bg-animation"> 
+				<div id="stars"></div>
+				<div id="stars2"></div>
+				<div id="stars3"></div>
+				<div id="stars4"></div>
+			</div>
+		
+						<!-- Background overlay CC-->
+			<div class="mbr-overlay" style="opacity: 0.4; background-color: rgb(130, 130, 130);"> 
+				</div>
+				
+						<!-- TEXT-->
+			<div class="text">
+			<h1>U R E L . X Y Z</h1>
+			</div>
+			
+				
+				
+		<!--1--></div>
+		
+
+</body>
+</html>
